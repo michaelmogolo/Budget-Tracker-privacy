@@ -10,7 +10,7 @@ Textes prêts à copier-coller dans Play Console → Fiche du store principale.
 Budget Tracker — 100% offline
 ```
 
-*(29 caractères — alternative plus simple : `Budget Tracker`)*
+*(29 caractères alternative plus simple : `Budget Tracker`)*
 
 ## Description courte (max 80 caractères)
 
